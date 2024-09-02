@@ -1,0 +1,16 @@
+{
+  "name": "tableland_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tableland/sdk": "^7.2.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2"
+  }
+}
